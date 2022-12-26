@@ -37,11 +37,11 @@ background:url(../images/background/subheader.jpg)top fixed;
 #section-coming-soon{ background:none; background-color: rgba(0,0,0,0.4); position:absolute; min-height:100%; width:100%;z-index:1;}
 #section-describe{background:#202020;}
 #section-download{background:url(../images/background/bg-9.jpg) top fixed;}
-#bg-coming-soon-page{background:url(../images/background/bg-6.jpg) top fixed; position:fixed; min-height:100%; width:100%;}
+#bg-coming-soon-page{background:url(../images/background/bg-6.jpeg) top fixed; position:fixed; min-height:100%; width:100%;}
 #section-about-us-2{background:#18191b; height:100%;}
 .de_light #section-about-us-2{background:none;}
 #section-welcome{background:url(../images/background/bg-4.jpg) top fixed;}
-#section-welcome-2{background:url(../images/background/bg-6.jpg) top fixed;}
+#section-welcome-2{background:url(../images/background/bg-6.jpeg) top fixed;}
 #section-welcome-3{background:url(../images/background/bg-7.jpg) top fixed;}
 #section-welcome-4{background:url(../images/background/bg-10.jpg) top fixed;}
 #section-welcome-6{background:url(../images/background/bg-15.jpg) top fixed;}
